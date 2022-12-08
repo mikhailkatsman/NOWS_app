@@ -334,7 +334,7 @@ for more information on using .env files to store your sensitive data, please se
 ## Moving Forward
 There are still plenty of features to be implemented and potential bugs to be fixed for the application to be worthy of publication.\
 Here is a short list of features and issues that have to be addressed in the near future:
-- [ ] Server-side automated timer to delete NowCards.
+- [ ] Database-side automated timer to delete NowCards.
 - [ ] Interactive animations to signify popularity of each Nowcard
 - [ ] Cluster map markers together when they overlap. If the clustered marker is clicked,\
 the user sees a LIST of clickable Nowcards with basic information about each.
