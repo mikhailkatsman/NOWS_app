@@ -317,7 +317,7 @@ MACOS_KEY=# input your key here
 MAP_TOKEN=# input your access token here
 ~~~
 <br/><br/>
-After you have added your API keys and access tokens, please run the command below in to generate your "env.g.dart" file
+After you have added your API keys and access tokens, please run the command below to generate your "env.g.dart" file
 which will contain your newly encrypted envirorment variables:
 ~~~
 $ flutter pub run build_runner build
