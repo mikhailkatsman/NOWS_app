@@ -1,6 +1,6 @@
 # nows_app
 
-#### Video Demo:  <URL HERE>
+#### Video Demo:  coming soon
 #### Description:
 
 NOWS is an Android application that allows the user to view and publish location based events.
