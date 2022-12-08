@@ -342,7 +342,7 @@ the user sees a LIST of clickable Nowcards with basic information about each.
 (not implemented as of yet due to lack of users)
 - [ ] Automated testing to simulate hundreds or thousands of users creating NowCards simultaneously.
 - [ ] Database load testing.
-- [ ] Application Bug testing.
+- [ ] General application bug testing.
 - [ ] MapTile fetching optimisation. Minimize use of MapBox tiles by saving previously loaded tiles\
 on the device, or database.
 <br/><br/>
