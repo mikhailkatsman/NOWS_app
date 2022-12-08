@@ -301,6 +301,10 @@ fetching the Nowcard data, the location of each marker is stored in\
 a separate bucket of the database. This allows to decrease the "depth"\
 of each database request.
 <br/><br/>
+## Setup and Security
+If you want to test or co-develop you would have to go through a seup process to input your own API keys and Access Tokens to allow for full functionality of Firebase Authentication and Data storage services and Mapbox map tile services.
+Please create your own .env file and input your API keys accordingly.
+See [.env.example](lib/env/.env.example) for example:
 
 ## Moving Forward
 There are still plenty of features to be implemented and potential bugs to be fixed for the application to be worthy of publication.\
