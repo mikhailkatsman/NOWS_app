@@ -1,0 +1,11 @@
+303d88
+
+Image MemoryImage(_Uint8ArrayView#41fda) has 
+a display size of 150×150 but a 
+decode size of 768×1024, which uses an 
+additional 3978KB.
+
+Consider resizing the asset ahead of time, 
+supplying a cacheWidth parameter of 150, 
+a cacheHeight parameter of 150, 
+or using a ResizeImage.
