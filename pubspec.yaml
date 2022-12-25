@@ -1,5 +1,5 @@
 name: nows_app
-description: A new Flutter project.
+description: NOWS is an Android application that allows users to view and publish location based events.
 publish_to: 'none'
 version: 1.0.0+1
 
