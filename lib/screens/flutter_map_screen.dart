@@ -180,7 +180,7 @@ class _MapScreenState extends State<FlutterMapScreen> with TickerProviderStateMi
 
                       CurrentLocationLayer(
                         positionStream: const LocationMarkerDataStreamFactory()
-                          .geolocatorPositionStream(
+                          .fromGeolocatorPositionStream(
                             stream: Geolocator.getPositionStream(
                               locationSettings: const LocationSettings(
                                 accuracy: LocationAccuracy.high,
@@ -190,8 +190,8 @@ class _MapScreenState extends State<FlutterMapScreen> with TickerProviderStateMi
                             (event) { 
                               setState(() {
                                 locationSnapshot = 
-                                '${event.latitude.toStringAsFixed(5)},'
-                                '${event.longitude.toStringAsFixed(5)}';
+                                '${event?.latitude.toStringAsFixed(5)},'
+                                '${event?.longitude.toStringAsFixed(5)}';
                               });
                             }
                           ),
