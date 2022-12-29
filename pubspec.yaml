@@ -29,6 +29,7 @@ dependencies:
   url_launcher: ^6.1.7
   envied: ^0.3.0
   build_runner: ^2.3.2
+  flutter_native_splash: ^2.2.16
 
 
 dev_dependencies:
