@@ -366,6 +366,7 @@ on the device, or database.
 - [url_launcher](https://pub.dev/packages/url_launcher)
 - [envied](https://pub.dev/packages/envied/install)
 - [build_runner](https://pub.dev/packages/build_runner)
+- [flutter_native_splash](https://pub.dev/packages/flutter_native_splash)
 
 ## Attributions
 ### Thanks to:
