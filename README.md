@@ -7,7 +7,7 @@ NOWS is an Android application that allows users to view and publish location ba
 
 ## Basic Application Description
 
-The aim of the NOWS application is to hostand display a realtime database of postcards or "Nowcards", published by the users of the application.
+The aim of the NOWS application is to host and display a realtime database of postcards or "Nowcards", published by the users of the application.
 These Nowcards appear on the interactive map of the application as a set of clickable location markers.
 
 Each Nowcard has a timer, and a dedicated "attend" button, that keeps track of how many other users have decided to "attend" the event. 
